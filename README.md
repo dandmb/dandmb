@@ -1,20 +1,16 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 <h1 align="center">Hi 👋, I'm Dan Bizwa</h1>
-<h3 align="center">A passionate fullstack developer.</h3>
+<h3 align="center">A passionate Android developer.</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" alt="dandmb" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on a **Coffee Shop Management System using Spring boot and Angular**
+- 🤝 I’m working as an **Android Developer**
 
 - 🌱 I’m currently learning **KMM**
 
-- 👯 I’m looking to collaborate on **Android or Fullstack web project**
-
-- 🤝 I’m looking for a **Junior Fullstack developer role**
-
-- 💬 Ask me about **Angular, Android, Spring boot**
+- 💬 Ask me about **Android, KMM**
 
 - 📫 How to reach me **danbizwa@gmail.com**
 
