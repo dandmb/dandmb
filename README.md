@@ -8,9 +8,9 @@
 
 - 🤝 I’m working as an **Android Developer**
 
-- 🌱 I’m currently learning **KMM**
+- 🌱 I’m currently learning **Compose Multiplatform**
 
-- 💬 Ask me about **Android, KMM**
+- 💬 Ask me about **Android, Compose Multiplatform**
 
 - 📫 How to reach me **danbizwa@gmail.com**
 
