@@ -8,7 +8,7 @@
 
 - 🤝 I’m working as an **Android Developer**
 
-- 🌱 I’m currently learning **Compose Multiplatform**
+- 🌱 I’m currently working on **Compose Multiplatform**
 
 - 💬 Ask me about **Android, Compose Multiplatform**
 
