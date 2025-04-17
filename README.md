@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on **Compose Multiplatform**
 
-- 💬 Ask me about **Android, Compose Multiplatform**
+- 💬 Ask me about **Android and Compose Multiplatform**
 
 - 📫 How to reach me **danbizwa@gmail.com**
 
